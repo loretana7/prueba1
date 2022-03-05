@@ -1,0 +1,18 @@
+* {
+   font-size: 16pt;
+  font-family: "Courier New", Courier,monospace;
+}
+ul {
+font-weight: bold;
+}
+ul li {
+    margin-bottom :0.5rem;
+}
+button.add-button {
+    background-color: pink;
+    }
+
+.footer {
+  background-color: blue;
+  padding: 0.rem;
+}
